@@ -43,8 +43,17 @@ footer {
   text-align: right;
   display: flex;
   justify-content: right;
+  align-items: center;
 }
 
 footer h3 {
   width: fit-content;
+  margin: 0;
+}
+
+footer i {
+  height: fit-content;
+  width: fit-content;
+  align-self: center;
+  margin-right: 0.35rem;
 }
