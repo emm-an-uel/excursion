@@ -1,5 +1,4 @@
 /* General rules */
-
 html {
   font-family: 'Verdana', sans-serif;
   background-color: black;
@@ -36,4 +35,16 @@ a {
 /* Coming soon rules */
 #coming-soon-container {
   margin-top: 1.5rem;
+}
+
+/* Footer rules */
+footer {
+  margin-right: 1rem;
+  text-align: right;
+  display: flex;
+  justify-content: right;
+}
+
+footer h3 {
+  width: fit-content;
 }
